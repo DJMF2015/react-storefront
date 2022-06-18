@@ -1,0 +1,29 @@
+.basket_wrapper {
+  background-color: rgb(9, 17, 83);
+  margin-left: 50px;
+  margin-right: 50px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  padding: 20px 30px;
+  color: white;
+}
+
+.basket_wrapper-empty {
+  display: flex;
+  justify-content: center;
+}
+
+.basket_header {
+  font-weight: 500;
+}
+
+.basket_header-counter {
+  border-radius: 50%;
+  width: 36px;
+  height: 25px;
+  padding: 4px 9px;
+  background: white;
+  color: rgb(9, 17, 83);
+  text-align: center;
+  margin-left: 10px;
+}

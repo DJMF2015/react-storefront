@@ -1,0 +1,64 @@
+[
+  {
+    "id": "001",
+    "name": "Apple iPhone 13",
+    "price": 27,
+    "highlight": "Save £360",
+    "inStock": true,
+    "image": "https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltbf1131428b7d1f60/619e2d309248f010ab795683/Grid_Apple_iPhone_13_Pink.png?imageManager=true&impolicy=resize&width=85"
+  },
+  {
+    "id": "002",
+    "name": "Apple iPhone 13 Pro",
+    "price": 33,
+    "highlight": "Save £360",
+    "inStock": true,
+    "image": "https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltc26780f966da787d/619e2e15e0fbc210880029ce/Grid_Apple_iPhone_13Pro_Blue.png?imageManager=true&impolicy=resize&width=85"
+  },
+  {
+    "id": "003",
+    "name": "Apple iPhone 12",
+    "price": 24,
+    "highlight": "Save £360",
+    "inStock": true,
+    "image": "https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blt9a74e985d7a851b8/60814d4612dc9d3c683573c9/iPhone12_preorder_purple_200x382px.png?imageManager=true&impolicy=resize&width=85"
+  },
+  {
+    "id": "004",
+    "name": "Apple iPhone 13 mini",
+    "price": 24,
+    "highlight": "Save £360",
+    "inStock": true,
+    "image": "https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blt0297cad8e8568cc5/619e2f957602801099bfb82d/Grid_Apple_iPhone_13mini_Blue.png?imageManager=true&impolicy=resize&width=85"
+  },
+  {
+    "id": "005",
+    "name": "Samsung Galaxy S21 FE",
+    "price": 26,
+    "highlight": "Save £360",
+    "inStock": true,
+    "image": "https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blt99be772ab87b5a68/6197d0dc1c5e9d77962cd47e/SAMSUNG_R9_BLACK_GRID.png?imageManager=true&impolicy=resize&width=85"
+  },
+  {
+    "id": "006",
+    "name": "Samsung Galaxy Flip3",
+    "price": 32,
+    "highlight": "Free Watch4",
+    "inStock": true,
+    "image": "https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blt90dbf7a7efbde787/610d10f5ae8b1139431e0807/GalaxyZFlip5G_PhantomBlack_GRID.png?imageManager=true&impolicy=resize&width=85"
+  },
+  {
+    "id": "007",
+    "name": "Samsung Galaxy A52s",
+    "price": 14,
+    "inStock": true,
+    "image": "https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blte109779aabcab0f2/611fe2ece8898d66a7c9554b/Samsung_A52S_AwesomeBlack_GRID.png?imageManager=true&impolicy=resize&width=85"
+  },
+  {
+    "id": "008",
+    "name": "Apple iPhone 12 mini",
+    "price": 20,
+    "inStock": false,
+    "image": "https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf5c1581b49ecda88/6082c93c03ce953dac7572ee/iPhone12mini_preorder_purple_200x382px_(1).png?imageManager=true&impolicy=resize&width=85"
+  }
+]
